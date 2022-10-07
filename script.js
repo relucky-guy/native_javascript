@@ -1189,3 +1189,37 @@ function availableCurr(arr, missingCurr) {
 }
 
 availableCurr([...baseCurrencies, ...additionalCurrencies], 'CNY');
+
+// function start() {
+//     number0fFilms = prompt('Сколько фильмов вы уже просмотрели?', '');
+
+//     while(number0fFilms == '' || number0fFilms == null || isNaN(number0fFilms)) {
+//         number0fFilms = prompt('Сколько фильмов вы уже просмотрели?', '');
+//     }
+// }
+
+// function formulaSucces() {
+
+//     const questionResult = prompt('Тебя устраивает текущий результат? (true or false)', '');
+
+//     while(questionResult == '' || questionResult == null || isNaN(questionResult) || questionResult !== 'true' || questionResult !== 'false') {
+//         questionResult = prompt('Тебя устраивает текущий результат? (true or false)', '');
+//     }
+
+//     for (let i = 0; i < ∞; i++) {
+//         if (questionResult == 'true') {
+//             console.log('You are win!');
+//         }
+
+//         if (questionResult == 'false') {
+            
+//         }
+//     }
+
+
+
+//     for (let i = 0; i < ∞; i++) {
+//         idea => action => result;
+//     }
+// }
+
